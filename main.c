@@ -34,13 +34,11 @@ int main()
 		{
 			if(i==j)
 			{
-				sum=sum+v[i][j];
+			sum=sum+v[i][j];
 			}
 		}
-		
-		
 	}
-		printf("Shuma eshte :%d \t",sum);
+	printf("Shuma eshte :%d \t",sum);
 		
-		return 0;
+	return 0;
 }
